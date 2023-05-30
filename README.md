@@ -34,11 +34,8 @@ O programa consiste nas seguintes partes:
 4. Execute o comando a seguir para executar o programa:
 
    ```
-   python nome_do_arquivo.py
+   python GeraIP.py
    ```
 
-   Certifique-se de substituir "nome_do_arquivo.py" pelo nome real do arquivo.
 
 5. O programa irá gerar os IPs e salvar os resultados nos arquivos "ipsGerados.txt", "ipsValidos.txt" e "ipsInvalidos.txt" no mesmo diretório do arquivo de código.
-
-Espero que isso ajude! Se você tiver mais dúvidas, fique à vontade para perguntar.
